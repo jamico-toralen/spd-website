@@ -1,13 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Home
 ---
 
 # Welcome to State Public Defenders
-**We aim to stand first and foremost among the ranks of the Caldari Militia, deliving exceptional service in the name of the State. Our diverse array of corporations stand united in the face of Gallentean tyranny and our brave pilots stand ready to tackle all foes no matter the odds!**
+**We aim to stand first and foremost among the ranks of the Caldari Militia, delivering exceptional service in the name of the State. Our diverse array of corporations stand united in the face of Gallentean tyranny and our brave pilots stand ready to tackle all foes no matter the odds!**
 
 *We shall fight on the undocks, we shall fight on the gates, we shall fight in the plexes and in highsec, we shall fight in the wormholes; we shall never surrender.*
 
@@ -23,4 +20,4 @@ Sed feugiat blandit finibus. Aenean pharetra rutrum ultricies. In hac habitasse 
 
 Phasellus non ornare augue. Ut egestas at velit eget sagittis. Duis eu velit ante. Maecenas ornare quis tellus sed malesuada. Donec nec lobortis velit. Quisque laoreet augue dui, ac aliquet velit viverra nec. Donec sit amet risus sit amet massa suscipit molestie id eget lectus. Phasellus dignissim ante vitae tortor scelerisque, at pretium metus dictum. Maecenas vel felis cursus, aliquam sem eu, interdum massa. Nunc a neque nisl. Ut at augue dictum, commodo diam at, tempus felis. Nam gravida dictum arcu, non ultricies orci tristique sed.
 
-Aliquam consequat consequat odio, in ullamcorper enim vehicula ut. Vivamus lobortis eleifend vestibulum. Nullam et orci at urna sollicitudin auctor eget nec mi. Nunc elementum accumsan pulvinar. Nam consectetur, metus ut viverra maximus, diam tellus tempus sapien, et tincidunt risus ligula ut ligula. Nulla auctor sem in dapibus porttitor. Cras pulvinar id mi non mattis. Etiam gravida lorem eget dictum porta. Morbi ac blandit lacus. In condimentum elementum diam quis ultricies. Aliquam porttitor, nibh in mollis suscipit, orci ante malesuada metus, et tempus dolor ipsum vitae lorem. Proin id metus eget odio blandit consectetur id iaculis elit. Curabitur ac mauris convallis, pretium ante a, accumsan ligula. Suspendisse potenti. Vestibulum imperdiet diam ut consectetur tristique. 
+Aliquam consequat consequat odio, in ullamcorper enim vehicula ut. Vivamus lobortis eleifend vestibulum. Nullam et orci at urna sollicitudin auctor eget nec mi. Nunc elementum accumsan pulvinar. Nam consectetur, metus ut viverra maximus, diam tellus tempus sapien, et tincidunt risus ligula ut ligula. Nulla auctor sem in dapibus porttitor. Cras pulvinar id mi non mattis. Etiam gravida lorem eget dictum porta. Morbi ac blandit lacus. In condimentum elementum diam quis ultricies. Aliquam porttitor, nibh in mollis suscipit, orci ante malesuada metus, et tempus dolor ipsum vitae lorem. Proin id metus eget odio blandit consectetur id iaculis elit. Curabitur ac mauris convallis, pretium ante a, accumsan ligula. Suspendisse potenti. Vestibulum imperdiet diam ut consectetur tristique.

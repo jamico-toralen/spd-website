@@ -12,6 +12,7 @@ ul.navbar {
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
+  z-index: 999;
 }
 
 li.navbar {
@@ -29,4 +30,14 @@ li.navbar a {
 /* Change the link color to #111 (black) on hover */
 li.navbar a:hover {
   background-color: #111;
+}
+
+.corpimage {
+  margin-bottom: 50;
+}
+
+.corptext {
+  margin: 0;
+  position: absolute;
+  top: 50%;
 }
