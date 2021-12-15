@@ -22,9 +22,9 @@ title: SPD Alliance
 description:
   Official website for the State Public Defenders alliance in EVE Online.
   If you cannot afford an FC, one will be provided for you.
-baseurl: "/" # the subpath of your site, e.g. /blog
-domain: facwar.space
-url: "https://facwar.space" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/spd-website" # the subpath of your site, e.g. /blog
+domain: 
+url: "https://jamico-toralen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
