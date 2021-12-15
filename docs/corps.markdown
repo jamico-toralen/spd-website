@@ -8,7 +8,7 @@ title: Corps
 ## Home Guard Auxiliary [HG-AX]
 
 <div>
-  <img src="/assets/images/corplogos/hg-ax.png" width="64" height="64" align="left">
+  <img src="assets/images/corplogos/hg-ax.png" width="64" height="64" align="left">
 </div>
 **Home Guard Auxiliary** is the executor corporation for our alliance, and its members make up the leadership cadre of the organisation. To be in HG-AX is to be truly elite.
 <br>
@@ -20,7 +20,7 @@ title: Corps
 ## Nasranite Watch [NAERY]
 
 <div>
-  <img src="/assets/images/corplogos/naery.png" width="64" height="64" align="left">
+  <img src="assets/images/corplogos/naery.png" width="64" height="64" align="left">
 </div>
 **Nasranite Watch** is a primarily-Finnish Faction Warfare group fighting with us for the Caldari. Exercising a greater degree of autonomy than most other groups they serve effectively in a variety of roles and support secondary objectives.
 
@@ -31,7 +31,7 @@ title: Corps
 ## Paprika the Evil Daughter of Salt and Pepper [PAPRI]
 
 <div>
-  <img src="/assets/images/corplogos/papri.png" width="64" height="64" align="left">
+  <img src="assets/images/corplogos/papri.png" width="64" height="64" align="left">
 </div>
 **Paprika the Evil Daughter of Salt and Pepper**, in addition to boasting the longest name of any corporation in the alliance (and one of the longest in New Eden), is one of the most prolific corporations in the alliance and in the warzone as a whole.
 
@@ -42,7 +42,7 @@ title: Corps
 ## Plarium Marketing LLC [RSLEG]
 
 <div>
-  <img src="/assets/images/corplogos/rsleg.png" width="64" height="64" align="left">
+  <img src="assets/images/corplogos/rsleg.png" width="64" height="64" align="left">
 </div>
 **Plarium Marketing LLC** is the latest in greatest in high-level marketing organizations, with its signature "blow them up and then sell products" approach bringing in thousands of satisfied customers. We think. It's hard to tell over the screaming. Supporting militia actions by the State and direct-marketing high explosives to the enigmatic Sleepers are just the latest marketing tactics used by this fledgling company.
 
