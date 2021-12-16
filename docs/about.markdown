@@ -11,10 +11,10 @@ Our alliance is structured in a unique way, with individual corporations special
 
 ## Why Should I Join?
 
-Do you want to liberate the people of the State from the oppressive tyranny of the Gallente?
-Do you wish revenge for the genocide of Caldari Prime?
-Are you a newer pilot looking to dip your feet into PvP in a safe and friendly environment?
-Does the humdrum of nullsec politics bore you and make you long for something different?
+Do you want to liberate the people of the State from the oppressive tyranny of the Gallente?  
+Do you wish revenge for the genocide of Caldari Prime?  
+Are you a newer pilot looking to dip your feet into PvP in a safe and friendly environment?  
+Does the humdrum of nullsec politics bore you and make you long for something different?  
 Do you just **really** like blowing stuff up?
 
 All of these and more are good reasons to sign up today!
