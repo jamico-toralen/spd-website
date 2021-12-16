@@ -84,17 +84,3 @@ title: Corps
 **CEO:** Quentoris Hedgehog  
 **Timezone:** EUTZ  
 **Area(s) of Expertise:** PvP, FW  
-
-## TOCAIA OUTPOST [T-0UT]
-
-<div>
-  <img src="assets/images/corplogos/t-0ut.png" width="64" height="64" align="left">
-</div>
-**TOCAIA OUTPOST** is...TOCAIA OUTPOST, I guess. I dunno.
-<br>
-<br>
-<br>
-<br>
-**CEO:** Gabriel VoidMain  
-**Timezone:** AUTZ  
-**Area(s) of Expertise:** PvP, FW  
