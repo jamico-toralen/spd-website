@@ -41,3 +41,13 @@ li.navbar a:hover {
   position: absolute;
   top: 50%;
 }
+
+div.background {
+  background-image: url("https://www.eve-outtakes.de/caldari-bc.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+body {
+  background-color: white;
+}
